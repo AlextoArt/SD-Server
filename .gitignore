@@ -2,6 +2,7 @@
 bin
 obj
 *.layout
+*.depend
 
 # Log
 log.txt
